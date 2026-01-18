@@ -151,6 +151,8 @@ Securing Generative AI is an iterative process. By leveraging the DLP API as sec
 
 ---
 
+#### © Copyright Google LLC.
+
 #### 📬 Let’s Connect
 Have feedback, questions, or want to contribute? Feel free to reach out or fork the project!
 Feel free to reach out and follow me on social media:
