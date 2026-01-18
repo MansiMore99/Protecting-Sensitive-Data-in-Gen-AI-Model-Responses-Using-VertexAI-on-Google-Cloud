@@ -24,9 +24,12 @@ This two-tiered strategy—balancing data utility with rigid IP protection—is 
 
 **Implementation Prerequisites**
 • **Google Cloud Services:** Active Project with Vertex AI and Cloud Data Loss Prevention (DLP) API enabled.
-• [ ] **Knowledge Areas:** Proficiency in Vertex AI prompting workflows and a foundational understanding of DLP inspection templates and infoTypes.
-• [ ] **Tooling:** A Vertex AI Workbench instance configured with a Python 3 kernel.
-• [ ] **Configuration:** Ensure your Project ID and Location are pre-configured within your notebook environment as per the lab requirements.
+
+• **Knowledge Areas:** Proficiency in Vertex AI prompting workflows and a foundational understanding of DLP inspection templates and infoTypes.
+
+• **Tooling:** A Vertex AI Workbench instance configured with a Python 3 kernel.
+
+• **Configuration:** Ensure your Project ID and Location are pre-configured within your notebook environment as per the lab requirements.
 
 **Quick Start:** Dependency Installation The following Python packages are required to interface with the Vertex AI platform and the Sensitive Data Protection service:
 
