@@ -1,7 +1,5 @@
 ## ☕ Protecting-Sensitive-Data-in-Gen-AI-Model-Responses-Using-VertexAI-on-Google-Cloud
 
-<img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/0861c348-5ecd-4a7e-8ab6-8ac4d3985e04" />
-
 <div align="center">
 
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
@@ -9,6 +7,8 @@
 [![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/run)
 
 </div>
+
+<img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/0861c348-5ecd-4a7e-8ab6-8ac4d3985e04" />
 
 This project leverages the Cloud Data Loss Prevention (DLP) API to identify, classify, and remediate sensitive data within Gemini model responses. The mission is to transform a raw AI pipeline into a secure, enterprise-grade ecosystem through three core capabilities:
 
